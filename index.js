@@ -51,7 +51,7 @@ tablazat.setAttribute("id", "tablazat");
 
 
 document.body.appendChild(tablazat);
-//--------------------------------------------------Szorgalmi befejezni. Sima kattintás: sorba rendezés, Dupla: névsorban visszarendezés.
+
 
 
 
